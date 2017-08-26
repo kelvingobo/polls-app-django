@@ -1,0 +1,4 @@
+polls/migrations/
+polls/*.pyc
+votepolls/*.pyc
+db.sqlite3
